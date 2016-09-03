@@ -1,0 +1,104 @@
+*{
+	margin: 0 ;
+	padding: 0;
+}
+
+body{
+	background: #F5F5F5;
+}
+
+#box{
+	width: 740px;
+	margin: 0 auto;
+	padding: 0;
+
+}
+
+#curriculum{
+	width: 740px;
+	margin-top: 10px;
+	background: #FFF;
+	padding: 10px;
+}
+
+#curriculum form{
+	width: 740px;
+	float: left;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+
+#curriculum fieldset{
+	margin: 0 auto;
+	width: 700px;
+	border: 1px solid #FC0;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+#curriculum legend{
+	float: left;
+	font: bold 14px arial, helvetica, sans-serif;
+	color: #666;
+}
+
+#curriculum label{
+	float: left;
+	width: 740px;
+	padding: 5px;
+}
+
+#curriculum label span{
+	float: left;
+	font: bold 12px arial, helvetica, sans-serif;
+	color: #333;
+	padding: 5px;
+	width: 100px;
+}
+
+#curriculum label input{
+	float: left;
+	width: 200px;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 4px;
+	font: bold 12px arial, helvetica, sans-serif;
+}
+
+#curriculum .arquivo{
+	float: left;
+	width: 200px;
+}
+
+#curriculum select{
+	float: left;
+	width: 200px;
+	padding: 4px;
+	font: 12px arial, helvetica, sans-serif;
+	border: 1px solid #CCC;
+}
+
+.btn{
+	float: right;
+	border: 0;
+	cursor: pointer;
+	border: 1px solid #CCC;
+}
+
+/**Estilização de Mensagem de erro**/
+.erro{
+	float: left;
+	/**margin-top: -30px;
+	margin-left: 35%;**/
+}
+
+.erro p{
+	font: 15px arial, helvetica, sans-serif;
+	color: #000;
+	background: #F8DBD1;
+	border: 2px solid #F00;
+	padding: 5px;
+	margin-bottom: 20px;
+}/**FIM**/
