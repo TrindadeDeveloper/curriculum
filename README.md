@@ -1,2 +1,2 @@
 #curriculum
-curriculo virtual
+Este currículo é apenas um exemplar para treinamento academico
